@@ -51,10 +51,13 @@
 [SASS](https://www.sassmeister.com/)
 
 
+## Programa del curso
+
+[Programa del curso Desarrollo Web](https://drive.google.com/file/d/11rgiy_85NSh7KrxzkiIc7Ro2H63ZZWaM/view)
+
+## Clases Curso Desarrollo Web
 
 
-
-## Clases Curso Desarrollo Web 
 
 #### Clase 0
 [Introducción al Desarrollo Web + Onboarding](https://www.youtube.com/watch?v=kEskKz_AGSc)
@@ -106,57 +109,52 @@
 [Documentation](https://docs.google.com/presentation/d/1LgT4EnbRsTVSUr65mCJGdzv_mpnA3ddb1UNCBXbE8to/preview?slide=id.g129be243a0c_2_6)
 
 #### Clase 9
-[GIT]()
+[GIT](https://youtu.be/Nx69PpOumGo)
 
 [Documentation](https://docs.google.com/presentation/d/1vwpSgkvtNS4UuVEw_c2oufIz64qS87CYRr-mog68epw/preview?slide=id.p2)
 
 #### Clase 10
-[GITHUB]()
+[GITHUB](https://youtu.be/Yj9mXApqbyc)
 
 [Documentation](https://docs.google.com/presentation/d/1aMIQHKtmO5CPm1cG5cu0irJDpZgK8qZNL0HAMrhA92o/preview?slide=id.g13feab24cb4_0_0)
 
 #### Clase 11
-[Frameworks CSS+Bootstrap]()
+[Frameworks CSS+Bootstrap](https://youtu.be/_jwl1o5mgM4 )
 
 [Documentation](https://docs.google.com/presentation/d/15ukwIFQk9hEPFaGs4ztjfhmv7MS4EiqlcpbtsGW8WiU/preview?slide=id.g129be243a0c_2_6)
 
 #### Clase 12
-[@Media+Pseudoclases]()
+[@Media+Pseudoclases](https://youtu.be/rWfjUDsW-9c)
 
 [Documentation](https://docs.google.com/presentation/d/1DAiEfGtcrtWtXTY_D8_Iao6ind8ynKzhRarpnw2Sslg/preview?slide=id.g129be243a0c_2_6)
 
 #### Clase 13
-[SASS I]()
+[SASS I](https://youtu.be/Clto_uv6fCM)
 
 [Documentation](https://docs.google.com/presentation/d/1j5Wrr4x-VBHlbTUniGq0eeId5S_w-wNkNaO6atr5A-Y/preview?slide=id.p2)
 
 #### Clase 14
-[SASS II]()
+[SASS II](https://youtu.be/NUO7ZIFeWdw  )
 
 [Documentation](https://docs.google.com/presentation/d/1DQRUPOQGAHLloZedyz8lzQ2J_lwVTlUmVgTJJJdjboU/preview?slide=id.p2)
 
 #### Clase 15
-[Servidores y SEO para tu sitio]()
+[Servidores y SEO para tu sitio](https://youtu.be/lv0sTsHf5uw)
 
 [Documentation](https://docs.google.com/presentation/d/1gYycVkxjXd8X1iJzqpos4X_vm1-9Jir9q0OuEZSfHUE/preview?slide=id.p1)
 
 #### Clase 16
-[Subida al servidor]()
+[Subida al servidor](https://youtu.be/L1OrcKux7bM)
 
 [Documentation](https://docs.google.com/presentation/d/1DMiwXO_b5SNF_iPm8RvfLU1rdedI2gxyvF50u6KcooQ/preview?slide=id.g129be243a0c_2_6)
 
-#### Clase after class 2 (clase de repaso)
-[Clase complementaria de Repaso SASS]()
-
-[Documentation]()
-
 #### Clase 17
-[Conociendo a nuestro cliente]()
+[Conociendo a nuestro cliente](https://youtu.be/acB-g2fpdNU)
 
 [Documentation](https://docs.google.com/presentation/d/1b6ei1gUAbOwUQiF_nPHcELfKsHZsLYL578ixdHo7Bpc/preview?slide=id.g113c9d1b815_10_6)
 
 #### Clase 18
-[Proyecto Final]()
+[Proyecto Final](https://youtu.be/BfSlwRij3Qw)
 
 [Documentation](https://docs.google.com/presentation/d/1DC7wXWAniA355DFXlPe-rVby-jDjkNWKAxi08X9kwQ0/preview?slide=id.p2)
 
